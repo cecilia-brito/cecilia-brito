@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I am learning
+
+<img display="flex" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width='400' height='300'> 
+
+#### I am learning 
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='60' height='60' /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='60' height='60' /></a>
