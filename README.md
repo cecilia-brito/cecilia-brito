@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img display="flex" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width='400' height='300'> 
+<img display="flex" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width='300' height='200'> 
 
 #### I am learning 
 
@@ -35,6 +35,5 @@ Here are some ideas to get you started:
 ##
   
 <div>
-<a href = "mailto:contato@ceciliabritosantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/cecília-brito-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:contato@ceciliabritosantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/cecília-brito-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
