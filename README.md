@@ -19,11 +19,11 @@
 
 ##
 
-<div>
-<a href="https://github.com/cecilia-brito">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-brito&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=cecilia-brito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
+<a href="https://github.com/cecilia-brito">
+<img height="300" width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-brito&layout=compact&langs_count=7&theme=dracula"/>
+<img height="300"  width='400' src="https://github-readme-stats.vercel.app/api?username=cecilia-brito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
 ##
   
 <div>
