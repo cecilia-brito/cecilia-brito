@@ -1,22 +1,14 @@
-### Hi devs (´∩｡• ᵕ •｡∩`)
+### Hi devs (´∩｡• ᵕ •｡∩`)                   
 
-<!--
-**cecilia-brito/cecilia-brito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align= 'right' src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width='300' height='200'>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I’m web programming student
+- 👩🏽‍💻 I’m currently learning is JS
+- 😄 Pronouns: She/her (ela/dela)                                                                                                                             
+- ⚡ Fun fact: I love super heroes movies🚀
 
 
-<img display="flex" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width='300' height='200'> 
+
 
 #### I am learning 
 
