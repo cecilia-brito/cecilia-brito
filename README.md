@@ -3,7 +3,7 @@
 <img align= 'right' src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width='300' height='200'>
 
 - 📚 I’m web programming student
-- 👩🏽‍💻 I’m currently learning is JS
+- 👩🏽‍💻 I’m currently learning JS
 - 😄 Pronouns: She/her (ela/dela)                                                                                                                             
 - ⚡ Fun fact: I love super heroes movies🚀
 
