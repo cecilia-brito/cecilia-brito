@@ -20,6 +20,7 @@
 <a href=''><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt='Logo da linguagem Typescript' width ='60' height='60'/></a>
 <a href=''><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt='Logo do framework React' width ='60' height='60'/></a>
 <a href=''><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt='Logo do Figma, software de design e crição de interfaces' width ='60' height='60'/></a>
+
 ## 
 
 <a href="https://github.com/cecilia-brito">
