@@ -26,10 +26,10 @@
 <img height="300" width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-brito&layout=compact&langs_count=7&theme=dracula"/>
 <img height="300"  width='400' src="https://github-readme-stats.vercel.app/api?username=cecilia-brito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-##
+![Snake animation](https://github.com/cecilia-brito/cecilia-brito/blob/output/github-contribution-grid-snake.svg)
+
+ ##
   
 <div>
 <a href = "mailto:ceciliabritosantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/cecília-brito-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-![Snake animation](https://github.com/cecilia-brito/cecilia-brito/blob/output/github-contribution-grid-snake.svg)
