@@ -21,8 +21,6 @@
 <a href=''><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt='Logo do framework React' width ='60' height='60'/></a>
 <a href=''><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt='Logo do Figma, software de design e crição de interfaces' width ='60' height='60'/></a>
 
-## 
-
 <a href="https://github.com/cecilia-brito">
 <div align='center'>
 <img height="300" width='350' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-brito&layout=compact&langs_count=7&theme=dracula"/>
