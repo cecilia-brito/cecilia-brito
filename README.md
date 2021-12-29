@@ -7,7 +7,7 @@
 - 😄 Pronouns: She/her (ela/dela)                                                                                                                             
 - ⚡ Fun fact: I love super heroes movies🚀
 
-#### I'm learning 
+### I'm learning 
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='60' height='60' /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='60' height='60' /></a>
