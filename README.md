@@ -13,12 +13,12 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='60' height='60' /></a>
 <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='60' height='60' /></a>
 <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt='Logo do Git, ferramenta de versionamento de código' width='60' height='60' /></a>
+<a href=''><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt='Logo do framework React' width ='60' height='60'/></a>
 <a href="https://devdocs.io/c/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/></a>
 
 ### I'm interested
 
 <a href=''><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt='Logo da linguagem Typescript' width ='60' height='60'/></a>
-<a href=''><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt='Logo do framework React' width ='60' height='60'/></a>
 <a href=''><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt='Logo do Figma, software de design e crição de interfaces' width ='60' height='60'/></a>
 <a href='dejs.org/en/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='60' height="60"/></a>
 
