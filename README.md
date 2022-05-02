@@ -21,7 +21,7 @@
 <a href=''><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt='Logo da linguagem Typescript' width ='60' height='60'/></a>
 <a href=''><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt='Logo do Figma, software de design e crição de interfaces' width ='60' height='60'/></a>
 <a href='dejs.org/en/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='60' height="60"/></a>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width='60' height='60' alt="Logo da linguagem de programação Java, uma caneca feita em linhas azuis saindo uma fumaça feita em linhas vermelhas, embaixo da caneca está escrito Java na cor vermelha"/>
 <a href="https://github.com/cecilia-brito">
 <div align='center'>
 <img height="300" width='350' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-brito&layout=compact&langs_count=7&theme=dracula"/>
