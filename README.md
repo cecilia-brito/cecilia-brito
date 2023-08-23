@@ -5,7 +5,7 @@
 - 📚 I’m web programming student
 - 👩🏽‍💻 I’m currently learning JS and C
 - 😄 Pronouns: She/her (ela/dela)                                                                                                                             
-- ⚡ Fun fact: I love super heroes movies🚀
+- ⚡ Fun fact: i love gothic novels 🦇
 
 ### I'm learning 
 
