@@ -7,7 +7,7 @@
 - ⚡ Fun fact: i love gothic novels 🦇
 <div align='center'>
 <img height="300" width='350' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-brito&layout=compact&langs_count=7&theme=dracula"/>
-<img height="300"  width='400' src="https://github-readme-stats.vercel.app/api?username=cecilia-brito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="300" width='350' src="https://github-readme-stats.vercel.app/api?username=cecilia-brito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>  
   
 ![Snake animation](https://github.com/cecilia-brito/cecilia-brito/blob/output/github-contribution-grid-snake.svg)
