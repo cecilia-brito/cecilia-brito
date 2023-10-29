@@ -6,7 +6,7 @@
 - 😄 Pronouns: She/her (ela/dela)                                                                                                                             
 - ⚡ Fun fact: i love gothic novels 🦇
 
-<br/>
+<br/><br/><br/>
  
 <div align='center'>
 <img height="300" width='350' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-brito&layout=compact&langs_count=7&theme=dracula"/>
