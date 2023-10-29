@@ -11,7 +11,7 @@
 <br/>
  
 <div>
-<img align='center' height="300" width='350' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-brito&layout=compact&langs_count=7&theme=dracula"/>
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-brito&layout=compact&langs_count=7&theme=dracula"/>
 </div>  
   
 ![Snake animation](https://github.com/cecilia-brito/cecilia-brito/blob/output/github-contribution-grid-snake.svg)
