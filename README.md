@@ -1,6 +1,6 @@
 ### Hi devs (´∩｡• ᵕ •｡∩`)                   
 
-<img align='right' src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width='300' height='200' style="float:left;">
+<img align='right' src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width='300' height='200' style="float:right;">
 
 - 📚 I’m web programming student
 - 😄 Pronouns: She/her (ela/dela)                                                                                                                             
