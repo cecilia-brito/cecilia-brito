@@ -6,7 +6,9 @@
 - 😄 Pronouns: She/her (ela/dela)                                                                                                                             
 - ⚡ Fun fact: i love gothic novels 🦇
 
-<br/><br/><br/>
+##
+
+<br/>
  
 <div align='center'>
 <img height="300" width='350' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilia-brito&layout=compact&langs_count=7&theme=dracula"/>
@@ -14,9 +16,8 @@
   
 ![Snake animation](https://github.com/cecilia-brito/cecilia-brito/blob/output/github-contribution-grid-snake.svg)
 
- ##
+##
   
 <div align='center'>
 <a href = "mailto:ceciliabritosantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/cecilia-brito-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href='https://www.codewars.com/users/cecilia-brito'><img src='https://www.codewars.com/users/cecilia-brito/badges/micro'/></a>
 </div>
