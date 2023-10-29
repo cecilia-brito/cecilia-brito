@@ -5,7 +5,6 @@
 - 📚 I’m web programming student
 - 😄 Pronouns: She/her (ela/dela)                                                                                                                             
 - ⚡ Fun fact: i love gothic novels 🦇
-- 
 
 ##
  
